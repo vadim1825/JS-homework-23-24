@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.clearfix {
+	content: " ";
+	display: table;
+	clear: both;
+}
+
+header {
+	margin: 20px;
+}
+
+h2,
+p {
+	text-align: center;
+}
+
+.wrapper {
+	padding: 30px;
+}
+
+.menu {
+	width: 100%;
+}
+
+li {
+	padding-bottom: 10px;
+}
+
+.menu__del {
+	float: right;
+}
+
+.menu__del:hover {
+	cursor: pointer;
+}
+
+.controlls {
+	display: table;
+	margin: 0 auto;
+}
